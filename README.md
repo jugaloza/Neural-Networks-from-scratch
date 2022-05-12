@@ -1,5 +1,5 @@
 # Neural-Networks-from-scratch
 
-In this repository, I am implementing neural networks from scratch. this repository is still in development I will update as and when I will implement further complex neural networks.
+This Repository consists of implementation of Neural Networks from scratch. Referring Grokking Deep learning book by Andrew Trask. Repository is still in development. 
 
-As of now I have implemented Dense Layer, Activation Functions, L1 and L2 regularizers, Dropout Layer, Loss functions for both regression and classification and Optimizers.
+Will upload notebooks as and when I will progress
